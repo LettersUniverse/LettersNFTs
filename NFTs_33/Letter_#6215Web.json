@@ -1,0 +1,59 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Letter #6215",
+  "description": "Lowercase 'e' is expressive and easygoing. It’s a nod to communication and empathy.",
+  "series_number": 6215,
+  "collection": {
+    "id": "ba33fb2f-d4c6-49cf-a15c-cbeead7e4375",
+    "name": "Letters",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Letters is a collection of digital letters and symbols designed for self-expression through visual art. Each image is a unique combination of text color, background, font size, and style, allowing users to convey their mood, emotions, or message to the world. The collection was created with a single purpose — to give everyone the freedom to design their NFT wall in a way that reflects their inner voice. Whether it's a scream, a whisper, joy, or silence — here, you'll find a symbol that feels truly yours. Build a word. Form a phrase. Curate a palette of feelings. Letters is a space where characters speak louder than words."
+      },
+      {
+        "type": "icon",
+        "value": "https://lettersuniverse.github.io/LettersNFTs/LogoLetters.gif"
+      },
+      {
+        "type": "banner",
+        "value": "https://lettersuniverse.github.io/LettersNFTs/Baner%20Letters.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Symbol",
+      "value": "e"
+    },
+    {
+      "trait_type": "Font",
+      "value": "Arial"
+    },
+    {
+      "trait_type": "Font Style",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Font Size",
+      "value": "1000"
+    },
+    {
+      "trait_type": "VerticalAlignment",
+      "value": "Center"
+    },
+    {
+      "trait_type": "HorizontalAlignment",
+      "value": "Center"
+    },
+    {
+      "trait_type": "Text Color",
+      "value": "#E50914"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#101010"
+    }
+  ]
+}
